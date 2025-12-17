@@ -169,8 +169,4 @@ For issues or questions, please open an issue on GitHub or contact support.
 
 **Built with ❤️ using React + Vite + Firebase**
 
-## Preview
 
-![Hero Section](preview/hero.png)
-![Features Section](preview/features.png)
-![Footer Section](preview/footer.png)
