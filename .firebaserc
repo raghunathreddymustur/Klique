@@ -1,5 +1,15 @@
 {
   "projects": {
     "default": "buddymatch-c0b33"
-  }
+  },
+  "targets": {
+    "buddymatch-c0b33": {
+      "hosting": {
+        "interview": [
+          "klique-interview"
+        ]
+      }
+    }
+  },
+  "etags": {}
 }
